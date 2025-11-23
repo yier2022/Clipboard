@@ -1,0 +1,22 @@
+{
+  "short_name": "ClipRelay",
+  "name": "Clip Relay Sharing",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=CR&background=1a1a1a&color=fff&size=192&font-size=0.4&rounded=true&bold=true",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=CR&background=1a1a1a&color=fff&size=512&font-size=0.4&rounded=true&bold=true",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary"
+}

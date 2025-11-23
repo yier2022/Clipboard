@@ -1,0 +1,5 @@
+{
+  "name": "Clipboard",
+  "description": "A secure clipboard and file sharing PWA application.",
+  "requestFramePermissions": []
+}
