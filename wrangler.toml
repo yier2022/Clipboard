@@ -1,6 +1,9 @@
 ﻿name = "clipboard-app"
 compatibility_date = "2024-01-01"
 
+# Pages 构建输出目录
+pages_build_output_dir = "dist"
+
 # D1数据库绑定
 [[d1_databases]]
 binding = "DB"
